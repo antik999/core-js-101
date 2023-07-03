@@ -274,7 +274,6 @@ function getCardId(/* value */) {
 }
 
 
-
 module.exports = {
   concatenateStrings,
   getStringLength,
