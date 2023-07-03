@@ -223,7 +223,7 @@ function getRectangleString(/* width, height */) {
  *    => 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm'
  *
  */
-function encodeToRot13(/*str*/) {
+function encodeToRot13(/* str */) {
   throw new Error('Not implemented');
 }
 
@@ -269,7 +269,7 @@ function isString(/* value */) {
  *   'Q♠' => 50
  *   'K♠' => 51
  */
-function getCardId(/*value*/) {
+function getCardId(/* value */) {
   throw new Error('Not implemented');
 }
 
