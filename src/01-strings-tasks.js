@@ -290,5 +290,5 @@ module.exports = {
   getRectangleString,
   encodeToRot13,
   isString,
-  getCardId
+  getCardId,
 };
